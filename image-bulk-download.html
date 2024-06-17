@@ -1,0 +1,106 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image download</title>
+ </head>
+ <body>
+    <!-- if using button -->
+    <!-- <button class= "download" onclick="downloadAll()">
+        Download
+      </button> -->
+    <script>
+
+      const getData = function(params, callback) {
+          var mainXHR = new XMLHttpRequest();
+          mainXHR.onreadystatechange = function() {
+              if (this.readyState == 4 && (this.status == 200 || this.status == 304 || this.status == 206)) {
+                  callback(this.response);
+              } 
+              if(this.status == 404 || this.status == 500) {
+                  callback({'status': 'failed'});
+              }
+          }
+          mainXHR.open(params.method, params.url);
+          mainXHR.responseType = params.type;
+          mainXHR.send();
+      }
+
+      function forceDownload(url, fileName){
+        this.url = url
+        this.fileName = fileName
+        this.download = (fName, callback) => {
+
+          getData({url: this.url, method: 'GET', type: 'blob'}, (data) => {
+            var urlCreator = window.URL || window.webkitURL;
+            var imageUrl = urlCreator.createObjectURL(data);
+            var tag = document.createElement('a');
+
+            tag.href = imageUrl;
+            tag.download = fName;
+            document.body.appendChild(tag);
+            tag.click();
+            document.body.removeChild(tag);
+
+            callback({'status': 'success'});
+          })
+        }
+      }
+
+      var birdData = []
+      var downBird = []
+      var birdQueueIndex = 0
+
+      getData({url: 'assets/js/birds.json', method: 'GET', type: 'json'}, (data) => {
+          
+        birdData = [...data]
+
+        console.log('birdData ', birdData)
+        downloadImageQueue(0)
+      })
+
+      downloadImageQueue(0)
+
+      function downloadImageQueue(index) {
+        // callback
+        let item = birdData[index]
+        birdQueueIndex++
+
+        if(item.hasOwnProperty('img1')) {
+          let last = (item.img1.substring(item.img1.lastIndexOf('/')+1,item.img1.length)).split(".")
+          let fileExtension = last[last.length-1]
+          last.pop()
+          let filename = last.join('')
+          filename = filename.replace(/[^a-zA-Z ]/g, "") + '-img1.' + fileExtension
+
+          downBird[`${index}A`] = new forceDownload(item.img1, filename)
+          downBird[`${index}A`].download(filename, (res) => {
+            if(res && !item.hasOwnProperty('img2')) {
+              downloadImageQueue(birdQueueIndex)
+            }
+          })
+          birdData[index].img1url = filename
+        }
+          
+        if(item.hasOwnProperty('img2')) {
+          let last = item.img2.substring(item.img2.lastIndexOf('/')+1,item.img2.length).split(".")
+          let fileExtension = last[last.length-1]
+          last.pop()
+          let filename = last.join('')
+          filename = filename.replace(/[^a-zA-Z ]/g, "") + '-img2.' + fileExtension
+
+          downBird[`${index}B`] = new forceDownload(item.img2, filename)
+          downBird[`${index}B`].download(filename, (res) => {
+            if(res) {
+              downloadImageQueue(birdQueueIndex)
+            }
+          })
+          birdData[index].img2url = filename
+        }
+
+      }
+
+    </script>
+ </body>
+ </html>

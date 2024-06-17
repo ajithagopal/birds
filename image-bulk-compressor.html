@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Image download</title>
+</head>
+<body>
+   <!-- if using button -->
+   <!-- <button class= "download" onclick="downloadAll()">
+       Download
+     </button> -->
+   <script>
+
+     const getData = function(params, callback) {
+         var mainXHR = new XMLHttpRequest();
+         mainXHR.onreadystatechange = function() {
+             if (this.readyState == 4 && (this.status == 200 || this.status == 304 || this.status == 206)) {
+                 callback(this.response);
+             } 
+             if(this.status == 404 || this.status == 500) {
+                 callback({'status': 'failed'});
+             }
+         }
+         mainXHR.open(params.method, params.url);
+         mainXHR.responseType = params.type;
+         mainXHR.send();
+     }
+
+     function forceDownload(url, fileName){
+       this.url = url
+       this.fileName = fileName
+       this.download = (fName, callback) => {
+
+         getData({url: this.url, method: 'GET', type: 'blob'}, (data) => {
+
+            var urlCreator = window.URL || window.webkitURL;
+            var imageUrl = urlCreator.createObjectURL(data);
+
+            var img = document.createElement('img');
+            img.src = imageUrl;
+            img.onload = function() {
+                
+                var MAX_WIDTH = 450;
+                var MAX_HEIGHT = 450;
+
+                var width = img.width;
+                var height = img.height;
+
+                // Change the resizing logic
+                if (width > height) {
+                    if (width > MAX_WIDTH) {
+                        height = height * (MAX_WIDTH / width);
+                        width = MAX_WIDTH;
+                    }
+                } else {
+                    if (height > MAX_HEIGHT) {
+                        width = width * (MAX_HEIGHT / height);
+                        height = MAX_HEIGHT;
+                    }
+                }
+
+                var canvas = document.createElement("canvas");
+                canvas.width = width;
+                canvas.height = height;
+                var ctx = canvas.getContext("2d");
+                ctx.drawImage(img, 0, 0, width, height);
+
+                canvas.toBlob((blob) => {
+                    const myImage = new File([blob], `${fName}.webp`, { type: blob.type });
+                    let newImageUrl = urlCreator.createObjectURL(myImage);
+                    var tag = document.createElement('a');
+                    tag.href = newImageUrl;
+                    tag.download = fName+'.webp'
+                    document.body.appendChild(tag);
+                    tag.click();
+                    document.body.removeChild(tag);
+                    callback({'status': 'success'});
+                }, 'image/webp');
+
+            }
+
+         })
+       }
+     }
+
+     var birdData = []
+     var downBird = []
+     var birdQueueIndex = 0
+
+     getData({url: 'assets/js/birds.json', method: 'GET', type: 'json'}, (data) => {
+         
+       birdData = [...data]
+
+       console.log('birdData ', birdData)
+       downloadImageQueue(0)
+     })
+
+    // downloadImageQueue(0)
+
+     function downloadImageQueue(index) {
+       // callback
+       console.log('index ', index)
+       let item = birdData[index]
+       birdQueueIndex++
+
+       if(item.hasOwnProperty('img1')) {
+         console.log('index ', index, ' img1')
+         let filename = item.img1url.split(".")[0]
+         let fileurl = `assets/images/raw/${item.img1url}`
+
+         downBird[`${index}A`] = new forceDownload(fileurl, filename)
+         downBird[`${index}A`].download(filename, (res) => {
+           if(res && !item.hasOwnProperty('img2')) {
+             downloadImageQueue(birdQueueIndex)
+           }
+         })
+       }
+         
+       if(item.hasOwnProperty('img2')) {
+         console.log('index ', index, ' img2')
+         let filename = item.img2url.split(".")[0]
+         let fileurl = `assets/images/raw/${item.img2url}`
+
+         downBird[`${index}B`] = new forceDownload(fileurl, filename)
+         downBird[`${index}B`].download(filename, (res) => {
+           if(res) {
+             downloadImageQueue(birdQueueIndex)
+           }
+         })
+       }
+
+     }
+
+   </script>
+</body>
+</html>
