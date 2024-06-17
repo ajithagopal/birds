@@ -1,0 +1,878 @@
+[
+    {
+     "spots": "Nalsarovar lake and surroundings",
+     "access": "Open",
+     "description": "Nal Sarovar Bird Sanctuary, home to more than 250 species of migratory birds and resistant birds, is the largest wetland bird sanctuary in Gujarat and one of the largest in India.",
+     "habitat": "Wetland",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "64km from Ahmedabad"
+    },
+    {
+     "spots": "Shela Tank",
+     "access": "Open",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "15km from Ahmedabad"
+    },
+    {
+     "spots": "Koteshwar temple near Sabarmati river",
+     "access": "Open",
+     "description": "The coastal and wetland areas near the temple attract some bird species.",
+     "habitat": "River\/Wetland",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "14km from Ahmedabad"
+    },
+    {
+     "spots": "Moti Kumad, Viramgam",
+     "access": "Open",
+     "habitat": "Wetland\/Lake",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "60km from Ahmedabad"
+    },
+    {
+     "spots": "Bhogawo river near Fedara",
+     "access": "Open",
+     "description": "The serene banks of the river provide a habitat for a variety of avian species, making it an excellent spot to observe and appreciate the rich birdlife in the region.",
+     "habitat": "River\/Wetland",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "164km from Ahmedabad"
+    },
+    {
+     "spots": "Gangasar Lake, Viramgam",
+     "access": "Open",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "60km from Ahmedabad"
+    },
+    {
+     "spots": "Thol Lake Sanctuary",
+     "access": "Open",
+     "description": "Thol Lake Sanctuary, an area of 7 square kilometers, is a haven for migratory birds, providing a natural habitat for over 160 species of birds.",
+     "habitat": "Lake\/Marshland",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "28km from Ahmedabad"
+    },
+    {
+     "spots": "Vulture Point",
+     "access": "Open",
+     "description": "Vulture Point in Moti Kumad, Gujarat, is renowned for its breathtaking views and unique birdwatching opportunities.",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "60km from Ahmedabad"
+    },
+    {
+     "spots": "Pallikarnai marshland",
+     "access": "Open",
+     "description": "Pallikarnai marshland is one of the last remaining natural wetlands in the city and serves as an important habitat for various bird species.",
+     "habitat": "Wetlands",
+     "timeToVisit": "November to February",
+     "distanceFromCity": "22km from Chennai"
+    },
+    {
+     "spots": "Sholinganallur\/Perumbakkam marshland",
+     "access": "Open",
+     "description": "Perumbakkam, an extension of Pallikaranai marshland located in the southern part of Chennai, is a popular site to see Larger whistling teal, painted storks, spot-billed pelicans, cormorants, darters, black-headed ibises, Godwit, and Caspian tern.",
+     "habitat": "Wetlands",
+     "timeToVisit": "November to February",
+     "distanceFromCity": "27km from Chennai",
+     "storyLink": "https:\/\/www.thehindu.com\/sci-tech\/energy-and-environment\/a-whistle-stop-tour\/article67288641.ece"
+    },
+    {
+     "spots": "Adyar Estuary",
+     "access": "Open",
+     "description": "The Adyar Estuary, also known as the Adyar Creek, is a significant water body in Chennai. The estuary is a popular spot for bird watching.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "14km from Chennai",
+     "storyLink": "https:\/\/www.thehindu.com\/society\/indian-grey-hornbill-shows-up-at-adyar-estuary\/article33702310.ece"
+    },
+    {
+     "spots": "Guindy National Park",
+     "access": "Restricted",
+     "description": "Guindy National Park in Chennai offers opportunities for bird watching along with its diverse flora and fauna. The park is home to a variety of bird species, both resident and migratory.",
+     "habitat": "Greenery",
+     "timeToVisit": "October to February",
+     "distanceFromCity": "11km from Chennai",
+     "storyLink": "https:\/\/www.thehindu.com\/news\/cities\/chennai\/guindy-national-park-teeming-with-blackbucks-and-birds\/article67500441.ece"
+    },
+    {
+     "spots": "Theosophical Society",
+     "access": "Restricted",
+     "description": "The Theosophical Society's Adyar campus in Chennai is known for its lush and green surroundings. The campus is situated along the banks of the Adyar River, and its serene environment provides a habitat for various bird species.",
+     "habitat": "Greenery",
+     "timeToVisit": "October to February",
+     "distanceFromCity": "13km from Chennai",
+     "storyLink": "https:\/\/www.thehindu.com\/society\/how-chennais-theosophical-society-maintains-its-greenery-even-in-the-summer\/article23912153.ece"
+    },
+    {
+     "spots": "Buckingham Canal",
+     "access": "Open",
+     "description": "Buckingham Canal, which runs through Chennai, is a historic canal built during the British colonial period. While it primarily served as a navigation channel for transportation and irrigation, certain sections of the canal have become attractive for bird watchers due to their ecological diversity.",
+     "habitat": "River\/Waterbody",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "13km from Chennai",
+     "storyLink": "https:\/\/www.thehindu.com\/news\/cities\/chennai\/once-upon-a-time-in-madras-boats-coracles-and-an-island\/article67208532.ece"
+    },
+    {
+     "spots": "Perumbakkam lake",
+     "access": "Open",
+     "description": "Perumbakkam Lake, located in the southern part of Chennai, Tamil Nadu, is a potential spot for bird watching.",
+     "habitat": "Lake\/Waterbody",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "26km from Chennai",
+     "storyLink": "https:\/\/www.thehindu.com\/sci-tech\/energy-and-environment\/two-roads-diverged-on-a-narrow-bund\/article59860457.ece"
+    },
+    {
+     "spots": "Ram nagar swamps",
+     "access": "Open",
+     "description": "Ram Nagar swamps is an informal name given to water-filled vacant spaces in Madipakkam, near Chennai.",
+     "habitat": "Wetlands",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "20km from Chennai",
+     "storyLink": "https:\/\/www.thehindu.com\/sci-tech\/energy-and-environment\/three-birds-that-checked-into-chennai-and-stayed-on\/article38086592.ece"
+    },
+    {
+     "spots": "Sholinganallur lake",
+     "access": "Open",
+     "description": "Sholinganallur Lake in Chennai, Tamil Nadu, is known for being a habitat for various bird species. Sholinganallur Lake is a stopover for migratory birds, consider visiting during the migratory season.",
+     "habitat": "Marshlans\/Lake",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "28km from Chennai"
+    },
+    {
+     "spots": "Tholkappia Poonga Ecological Park",
+     "access": "Restricted",
+     "description": "Tholkappia Poonga, an ecological park set up by the Government of Tamil Nadu in the Adyar estuary, is home to around 140 species of birds.",
+     "habitat": "Marshlans\/Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "10km from Chennai",
+     "storyLink": "https:\/\/www.thehindu.com\/sci-tech\/energy-and-environment\/have-you-been-to-chennais-tholkappia-poonga-meet-the-ecologist-behind-it\/article67226226.ece"
+    },
+    {
+     "spots": "Vellayani - Punchakkari Wetlands",
+     "access": "Open",
+     "description": "The Vellayani-Punchakkari wetlands stand as a captivating destination for birdwatching enthusiasts, attracting a myriad of migratory birds like Glossy ibis, spot-billed pelican, painted stork, and Pacific swallow.",
+     "habitat": "Wetlands",
+     "timeToVisit": "Monsoon\/Winter",
+     "distanceFromCity": "14km from Thiruvananthapuram",
+     "storyLink": "https:\/\/www.thehindu.com\/sci-tech\/energy-and-environment\/bird-count-shows-a-marginal-decline-in-migratory-waterfowls-wintering-in-punchakari-vellayani\/article66439415.ece"
+    },
+    {
+     "spots": "Akkulam Lake",
+     "access": "Open",
+     "description": "With its serene surroundings and diverse habitat, Akkulam Lake attracts various bird species, making it an appealing destination for birdwatchers.",
+     "habitat": "Lake\/Marshland",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "5km from Thiruvananthapuram",
+     "storyLink": "https:\/\/www.thehindu.com\/news\/cities\/Thiruvananthapuram\/rarely-seen-strawberry-finch-spotted-at-akkulam-lake\/article30855102.ece"
+    },
+    {
+     "spots": "Ponmudi Hills",
+     "access": "Restricted",
+     "description": "Exploring Ponmudi provides a unique opportunity to witness and appreciate the diverse and often endangered birdlife that calls this area home.",
+     "habitat": "Hill station\/Forest",
+     "timeToVisit": "Post-monsoon and Winter",
+     "distanceFromCity": "59km from Thiruvananthapuram"
+    },
+    {
+     "spots": "State Forest Training Institute Road, Arippa",
+     "access": "Restricted",
+     "description": "The Western Ghats' foothills, where Arippa is situated, can offer opportunities to observe various bird species in their natural habitat.",
+     "habitat": "Forest\/Wetlands",
+     "timeToVisit": "Post-monsoon and Winter",
+     "distanceFromCity": "52km from Thiruvananthapuram",
+     "storyLink": "https:\/\/www.thehindu.com\/news\/national\/kerala\/rare-butterfly-sighted-at-arippa-forests\/article8043901.ece"
+    },
+    {
+     "spots": "Kallar",
+     "access": "Restricted",
+     "description": "Kallar is a region in Kerala, India, known for its natural beauty, hills, and rivers. The Western Ghats region, where Kallar is located, is renowned for its rich biodiversity and offers excellent opportunities for bird watching.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Post-monsoon and Winter",
+     "distanceFromCity": "42km from Thiruvananthapuram",
+     "storyLink": "https:\/\/www.thehindu.com\/life-and-style\/travel\/The-call-of-the-water\/article17277603.ece"
+    },
+    {
+     "spots": "Neyyar Wildlife Sanctuary - Kappukadu",
+     "access": "Restricted",
+     "description": "Neyyar Wildlife Sanctuary, located near Kappukadu in Kerala, is a diverse ecosystem known for its rich biodiversity. Bird watching is a popular activity in Neyyar Wildlife Sanctuary due to its varied habitats, ranging from moist deciduous forests to grasslands.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Post-monsoon and Winter",
+     "distanceFromCity": "37km from Thiruvananthapuram",
+     "storyLink": "https:\/\/www.thehindu.com\/society\/as-ardent-trekkers-gear-up-for-the-arduous-climb-to-agastyakoodan-veterans-men-and-women-recall-the-highlights-of-conquering-the-tough-terrain\/article26004373.ece"
+    },
+    {
+     "spots": "IISER thiruvananthapuram",
+     "access": "Restricted",
+     "description": "IISER Thiruvananthapuram's 200-acre campus, located in the lush hilly landscape of the southern Western Ghats, is home to serveral species of birds.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Post-monsoon and Winter",
+     "distanceFromCity": "42km from Thiruvananthapuram"
+    },
+    {
+     "spots": "Aruvikkara reservoir",
+     "access": "Restricted",
+     "description": "Aruvikkara Reservoir is a scenic location that offers birdwatching opportunities. The reservoir is surrounded by lush greenery, making it an attractive habitat for various bird species.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "15km from Thiruvananthapuram"
+    },
+    {
+     "spots": "Peppara Wildlife Sanctuary - Peppara",
+     "access": "Restricted",
+     "description": "Peppara Wildlife Sanctuary is a protected area known for its diverse flora and fauna. Birdwatching is a popular activity here as it is home to various bird species.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "35km from Thiruvananthapuram",
+     "storyLink": "https:\/\/www.thehindu.com\/news\/national\/kerala\/areas-around-neyyar-peppara-to-be-eco-sensitive-zone\/article65267888.ece"
+    },
+    {
+     "spots": "Jawaharlal Nehru Tropical Botanic Garden & Research Institute",
+     "access": "Restricted",
+     "description": "The Jawaharlal Nehru Tropical Botanic Garden and Research Institute (JNTBGRI) in Thiruvananthapuram, Kerala, is primarily a botanical garden focused on tropical plants.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Post-monsoon and Winter",
+     "distanceFromCity": "39km from Thiruvananthapuram"
+    },
+    {
+     "spots": "Bhoj wetland",
+     "access": "Open",
+     "description": "The Bhoj Wetland, consists of two lakes located in the city of Bhopal, are home to a diverse flora and fauna, including many waterbirds.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "15km from Bhopal"
+    },
+    {
+     "spots": "Van Vihar National Park",
+     "access": "Restricted",
+     "description": "Van Vihar National Park is primarily a zoological park and wildlife sanctuary. It provides a habitat for various species of flora and fauna, including birds.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "9km from Bhopal"
+    },
+    {
+     "spots": "Kerwa Dam",
+     "access": "Restricted",
+     "description": "The dam and the surrounding areas offer a variety of habitats, including water bodies, grasslands, and wooded regions, making it attractive to a diverse range of bird species.",
+     "habitat": "Waterbody\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "16km from Bhopal"
+    },
+    {
+     "spots": "Kaliyasot Dam",
+     "access": "Restricted",
+     "description": "Kaliyasot Dam is known for its scenic beauty and is a potential spot for bird watching.",
+     "habitat": "Waterbody\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "12km from Bhopal"
+    },
+    {
+     "spots": "Indian Institute of Forest Management",
+     "access": "Restricted",
+     "description": "The IIFM is an academic institution focused on forestry and natural resource management. Some of the species that have been sighted in the area include Shikra, Magpie Robin, Drongo, Peafowl, Pheasants, Jungle Babblers and Grey Hornbill.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "10km from Bhopal"
+    },
+    {
+     "spots": "IISER Bhopal",
+     "access": "Restricted",
+     "description": "The IISER campus, located in a lush green landscape, is home to serveral species of birds.",
+     "habitat": "Greenery\/Lake",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "22km from Bhopal"
+    },
+    {
+     "spots": "Hatai Keda lake",
+     "access": "Open",
+     "description": "Around 55 bird species have been spotted at Hatai Keda lake located near Bhopal in Madhya Pradesh in the past.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "12km from Bhopal"
+    },
+    {
+     "spots": "Bhor Van park",
+     "access": "Restricted",
+     "description": "Bhor Van park is a lesser known spot located in Bhopal's Bairagarh region for bird watching.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "12km from Bhopal"
+    },
+    {
+     "spots": "Sewri Jetty",
+     "access": "Open",
+     "description": "Sewri, located in South Mumbai, is known for the Sewri Jetty, which becomes a temporary home for thousands of flamingos and other bird species during the winter months, typically from November to March.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "13km from Mumbai"
+    },
+    {
+     "spots": "Mahim Nature Park",
+     "access": "Restricted",
+     "description": "Maharashtra Nature Park, also known as Mahim Nature Park, is a green oasis in the midst of the city. The park is known for its biodiversity and serves as a haven for various flora and fauna, including bird species.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "5km from Mumbai"
+    },
+    {
+     "spots": "TIFR Grounds, Colaba",
+     "access": "Restricted",
+     "description": "Tata Institute of Fundamental Research (TIFR) Grounds in Colaba is not widely recognized as a birding hotspot, but green spaces attract bird species.",
+     "habitat": "Greenery\/Sea Shore",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "30km from Mumbai"
+    },
+    {
+     "spots": "Hanging Gardens",
+     "access": "Restricted",
+     "description": "The Hanging Gardens, also known as Pherozeshah Mehta Gardens, is a terraced garden situated on Malabar Hill in Mumbai. The gardens are renowned for their scenic views of the city and Arabian Sea.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "21km from Mumbai"
+    },
+    {
+     "spots": "Mahalakshmi race course",
+     "access": "Restricted",
+     "description": "Mahalakshmi Race Course in Mumbai is primarily known as a horse racing venue. Its green areas and open spaces often attract birds.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "16km from Mumbai"
+    },
+    {
+     "spots": "Gateway of India",
+     "access": "Open",
+     "description": "The Gateway of India in Mumbai is a popular historic monument and tourist attraction, located on the waterfront of the Arabian Sea. Popular destination to see seagulls, pegions and doves.",
+     "habitat": "Sea Shore",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "25km from Mumbai"
+    },
+    {
+     "spots": "Shivaji park",
+     "access": "Open",
+     "description": "Shivaji Park in Mumbai is a popular public park and recreational space, known for its historical and cultural significance.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "12km from Mumbai"
+    },
+    {
+     "spots": "Byculla Zoo and museum complex",
+     "access": "Restricted",
+     "description": "Veermata Jijabai Bhosale Udyan, also known as the Byculla Zoo, is a botanical garden and zoo located in Mumbai.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "15km from Mumbai"
+    },
+    {
+     "spots": "BPT park, colaba",
+     "access": "Restricted",
+     "description": "Sagar Upvan in Colaba, Mumbai, is a green space situated at the tip of South Mumbai. It is owned by the Mumbai Port Trust and is maintained with the help of the World Wildlife Fund (WWF).",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "27km from Mumbai"
+    },
+    {
+     "spots": "Hesaraghatta Lake",
+     "access": "Open",
+     "description": "Hesaraghatta Lake, located near Bengaluru, Karnataka, is known for being a significant water body and a potential spot for bird watching.",
+     "habitat": "Grassland\/Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "32km from Bengaluru"
+    },
+    {
+     "spots": "Valley School",
+     "access": "Restricted",
+     "description": "The area near Valley School in Bangalore is known for its natural surroundings, consisting of woods and open grasslands.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "25km from Bengaluru"
+    },
+    {
+     "spots": "Muthanallur Kere",
+     "access": "Open",
+     "description": "Muthanallur Kere, situated in the Muthanallur village, is known to attract a variety of bird species, making it a potential spot for birdwatching.",
+     "habitat": "Grassland\/Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "27km from Bengaluru"
+    },
+    {
+     "spots": "GKVK Campus",
+     "access": "Restricted",
+     "description": "The campus is known for its lush greenery and diverse flora, which can attract a variety of bird species.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "14km from Bengaluru"
+    },
+    {
+     "spots": "Byatarayana Doddi Kere",
+     "access": "Open",
+     "description": "Byatarayana Doddi Kere, also known as Dodda Byatarayanapura Lake, is a water body located in the Dodda Byatarayanapura area of Bangalore, Karnataka.",
+     "habitat": "Greenery\/Lake",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "22km from Bengaluru"
+    },
+    {
+     "spots": "Muthyalamaduvu",
+     "access": "Restricted",
+     "description": "Muthyalamaduvu, also known as Pearl Valley, is a popular tourist destination located near Bangalore, Karnataka. It is known for its scenic beauty, waterfalls, and lush greenery.",
+     "habitat": "Greenery\/Lake",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "39km from Bengaluru"
+    },
+    {
+     "spots": "Shivanahalli",
+     "access": "Open",
+     "description": "Shivanahalli is a village located near Bangalore, Karnataka.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "32km from Bengaluru"
+    },
+    {
+     "spots": "Raigahalli",
+     "access": "Open",
+     "description": "The surrounding areas of Ragihalli are known for their natural beauty and biodiversity, making them potential spots for birdwatching.",
+     "habitat": "Forest\/Greenery\/Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "30km from Bengaluru"
+    },
+    {
+     "spots": "Hennagara Lake",
+     "access": "Open",
+     "description": "Hennagara Lake, located near Bangalore, Karnataka, is known for its natural beauty.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "28km from Bengaluru"
+    },
+    {
+     "spots": "Bannerghatta Biological Park",
+     "access": "Restricted",
+     "description": "Bannerghatta Biological Park is primarily known for its diverse wildlife and conservation efforts.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "21km from Bengaluru",
+     "storyLink": "https:\/\/www.thehindu.com\/sci-tech\/energy-and-environment\/sweet-pongal-for-elephants\/article26980967.ece"
+    },
+    {
+     "spots": "Barbanda Pond and Surroundings",
+     "access": "Open",
+     "description": "According to ebird.org, around 43 bird species have been found at Barbanda Pond and its surroundings.",
+     "habitat": "Lake\/Waterbody",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "22km from Raipur"
+    },
+    {
+     "spots": "Bangoli water dam",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 194 bird species have been found at Bangoli water dam.",
+     "habitat": "Lake\/Waterbody",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "35km from Raipur"
+    },
+    {
+     "spots": "Kurud tank, Mandir Hasaud",
+     "access": "Open",
+     "description": "According to ebird.org, around 187 bird species have been found at Kurud Tank, Mandir Hasaud.",
+     "habitat": "Lake\/Waterbody",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "21km from Raipur"
+    },
+    {
+     "spots": "Naya Raipur -- Cheriya Lake",
+     "access": "Open",
+     "description": "According to ebird.org, around 175 bird species have been found at Naya Raipur--Cheriya Lake.",
+     "habitat": "Lake\/Waterbody",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "33km from Raipur"
+    },
+    {
+     "spots": "WRS Colony",
+     "access": "Open",
+     "description": "According to ebird.org, around 157 bird species have been found at WRS Colony, Raipur.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "7km from Raipur"
+    },
+    {
+     "spots": "Mandhar Talaab.",
+     "access": "Open",
+     "description": "According to ebird.org, around 152 bird species have been found at Mandhar Talaab.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "22km from Raipur"
+    },
+    {
+     "spots": "Serikhedi",
+     "access": "Open",
+     "description": "According to ebird.org, around 149 bird species have been found at Serikhedi.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "16km from Raipur"
+    },
+    {
+     "spots": "Rajiv Smriti Van & Urja Park",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 149 bird species have been found at Rajiv Smriti Van & Urja Park.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "10km from Raipur"
+    },
+    {
+     "spots": "Bhatagaon Bird Watching Point",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 146 bird species have been found here.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "7km from Raipur"
+    },
+    {
+     "spots": "Gudhiyari wetland",
+     "access": "Open",
+     "description": "According to ebird.org, around 146 bird species have been found at Gudhiyari Wetlands.",
+     "habitat": "Greenery\/Wetlands",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "3km from Raipur"
+    },
+    {
+     "spots": "Sant Sarovar",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 239 bird species have been found at Sant Sarovar dam and surroundings.",
+     "habitat": "Greenery\/Waterbody",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "5km from Gandhinagar"
+    },
+    {
+     "spots": "Indroda Nature Park",
+     "access": "Restricted",
+     "description": "Indroda Nature Park is known for its rich biodiversity and serves as a conservation area.",
+     "habitat": "Greenery\/River",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "5km from Gandhinagar"
+    },
+    {
+     "spots": "Rancharda lake",
+     "access": "Open",
+     "description": "According to ebird.org, around 22+ bird species have been found at Rancharda Lake.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "32km from Gandhinagar"
+    },
+    {
+     "spots": "Aranya Udhyan",
+     "access": "Restricted",
+     "description": "Aranya Udhyan, a ecological park located in Gandhinagar, Gujarat, is a a paradise for bird watchers.",
+     "habitat": "Greenery\/River",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "10km from Gandhinagar"
+    },
+    {
+     "spots": "Narmada Canal",
+     "access": "Open",
+     "description": "Birdwatching along the Narmada Canal can be an enriching experience, as canals often attract a variety of bird species.",
+     "habitat": "Lake\/Waterbody",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "13km from Gandhinagar"
+    },
+    {
+     "spots": "Punit Van",
+     "access": "Restricted",
+     "description": "Punit Van is a botanical garden located in Sector 19 in Gandhinagar.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "4km from Gandhinagar"
+    },
+    {
+     "spots": "Gatehara lake",
+     "access": "Open",
+     "description": "The place give a close view of large number of bird species, like greater flamingo, lesser flamingo, purple swamp hen, spoon bill, bulbuls, sand pipers, glossy ibis, little ringed plover, greater painted snipe, common snipe, green shrunk, purple heron, purple sun bird, peacock and many more.",
+     "habitat": "Wetlands\/Waterbody",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "21km from Gandhinagar"
+    },
+    {
+     "spots": "Sabarmati river near IIT campus",
+     "access": "Open",
+     "description": "According to ebird.org, around 165 bird species have been found in the area.",
+     "habitat": "River",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "13km from Gandhinagar"
+    },
+    {
+     "spots": "Gujarat Forest Research Institute",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 156 bird species have been found in the area.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "8km from Gandhinagar"
+    },
+    {
+     "spots": "Rabindra Sarobar lake and Lions safari park",
+     "access": "Restricted",
+     "description": "Rabindra Sarobar Lake is known as the 'lungs of south Kolkata'. Situated at Southern Avenue, almost 175 species of birds call this place their home. Nearly 1\/3rd of them are migratory.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "8km from Kolkata"
+    },
+    {
+     "spots": "Alipore zoo",
+     "access": "Restricted",
+     "description": "Built on the lines of the London Zoo, the Alipore Zoological Gardens is the oldest zoo in the country.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "8km from Kolkata"
+    },
+    {
+     "spots": "Victoria memorial",
+     "access": "Restricted",
+     "description": "Victoria Memorial in Kolkata is primarily known for its historical significance and architectural beauty.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "7km from Kolkata"
+    },
+    {
+     "spots": "Chetla forest",
+     "access": "Restricted",
+     "description": "Situated between New Alipore (Durgapur) and Majherhat, this green patch along the east bank of Chetla canal can truly be described as an 'urban jungle'.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "10km from Kolkata"
+    },
+    {
+     "spots": "Maidan",
+     "access": "Open",
+     "description": "The Maidan is a large urban park and open space located in the heart of Kolkata, India.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "5km from Kolkata"
+    },
+    {
+     "spots": "Subhash Sarovar",
+     "access": "Open",
+     "description": "Subhash Sarovar in Kolkata is known as a serene water tank and recreational area.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "5km from Kolkata"
+    },
+    {
+     "spots": "Rawdon Square",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 63 bird species have been found in the area.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "4km from Kolkata"
+    },
+    {
+     "spots": "Tartala Nature Park",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 62 bird species have been found in the area.",
+     "habitat": "Lake\/Greenery",
+     "timeToVisit": "Winter and Spring",
+     "distanceFromCity": "13km from Kolkata"
+    },
+    {
+     "spots": "Eden Gardens",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 61 bird species have been found in the area.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "4km from Kolkata"
+    },
+    {
+     "spots": "Chandlai lake",
+     "access": "Open",
+     "description": "Chandlai Lake on the outskirts of Jaipur witnesses different species of birds during the winter months, specially November-December.",
+     "habitat": "Lake\/Wetlands",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "32km from Jaipur"
+    },
+    {
+     "spots": "Sambhar Lake",
+     "access": "Open",
+     "description": "Home to good population of different avifauna like flamingoes, black-headed gull and Northern Shoveller. About 45 species of water birds as ducks, shorebirds and geese are spotted at Sambhar.",
+     "habitat": "Lake\/Wetlands",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "83km from Jaipur"
+    },
+    {
+     "spots": "Nevata Talav",
+     "access": "Open",
+     "description": "Nevta Lake is a popular spot for watching winter migratory birds.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "22km from Jaipur"
+    },
+    {
+     "spots": "Jhalana Safari Park",
+     "access": "Restricted",
+     "description": "Set in the foothills of Aravallis, Jhalana Safari Park is a popular tourist attraction in Jaipur. The park is famous for birdwatching.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "10km from Jaipur"
+    },
+    {
+     "spots": "Man sagar lake",
+     "access": "Open",
+     "description": "You can spot resident birds throughout the year and hear their cheeps and chirps.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "10km from Jaipur"
+    },
+    {
+     "spots": "Kanota dam",
+     "access": "Restricted",
+     "description": "Built to provide irrigation for the Dhundh River Basin, Kanota Dam is now a well-liked tourist site close to Jaipur. With year-round water availability, Kanota Dam is a haven for calm and solitude and a bird watcher's heaven.",
+     "habitat": "Lake",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "16km from Jaipur"
+    },
+    {
+     "spots": "Jawahar Circle Garden",
+     "access": "Restricted",
+     "description": "Jawahar Circle Garden is home to a number of different species of birds. Birdwatchers will be delighted to spot a variety of birds, including peacocks, parrots, and kingfishers.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "10km from Jaipur"
+    },
+    {
+     "spots": "Bhaskar Enclave 2",
+     "access": "Open",
+     "description": "According to ebird.org, around 171 bird species have been found in the area.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "35km from Jaipur"
+    },
+    {
+     "spots": "Nahargarh Biological & Zoological Park",
+     "access": "Restricted",
+     "description": "The Park is famous for its vast flora and fauna, and its main aim is to conserve it.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "19km from Jaipur"
+    },
+    {
+     "spots": "Forest Research Institute (FRI), New Forest Campus",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 371 bird species have been found in the area.",
+     "habitat": "Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "7km from Dehradun"
+    },
+    {
+     "spots": "Rajaji National Park, Chilla range",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 369 bird species have been found in the area.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "58km from Dehradun"
+    },
+    {
+     "spots": "Asan conservation reserve",
+     "access": "Restricted",
+     "description": "Asan Conservation Reserve, or Asan barrage, a stunning blue-green water body, is one of the region's most popular bird-watching sites amoung nature-lovers and birding enthusiasts.",
+     "habitat": "Water body",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "43km from Dehradun"
+    },
+    {
+     "spots": "Wildlife Institute of India (WII)",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 359 bird species have been found in the area.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "9km from Dehradun"
+    },
+    {
+     "spots": "Shikhar falls",
+     "access": "Open",
+     "description": "According to ebird.org, around 278 bird species have been found in the area.",
+     "habitat": "Water body\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "14km from Dehradun"
+    },
+    {
+     "spots": "Maldevta",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 268 bird species have been found in the area.",
+     "habitat": "Water body\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "14km from Dehradun"
+    },
+    {
+     "spots": "Walterre Resorts",
+     "access": "Open",
+     "description": "According to ebird.org, around 248 bird species have been found in the area.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "12km from Dehradun"
+    },
+    {
+     "spots": "Kaudiya\/Gangabhogpur -- Talla",
+     "access": "Open",
+     "description": "According to ebird.org, around 240 bird species have been found in the area.",
+     "habitat": "Water body\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "53km from Dehradun"
+    },
+    {
+     "spots": "Cloud End Estate",
+     "access": "Restricted",
+     "description": "Wild Life Estate is home to exquisite variety of plants, birds and animals such as Pheasants, Leopard, Himalayan Black Bear, Barking Deer, Mountain Goat, etc.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "37km from Dehradun"
+    },
+    {
+     "spots": "Indian Institute of petroleum",
+     "access": "Restricted",
+     "description": "According to ebird.org, around 215 bird species have been found in the area.",
+     "habitat": "Forest\/Greenery",
+     "timeToVisit": "Winter",
+     "distanceFromCity": "8km from Dehradun"
+    },
+    {
+     "spots": "Agatti Island - General area (Airport at location)",
+     "access": "Restricted",
+     "description": "The agatti island is small, taking only half an hour to cover by drive. It makes for a scenic birdwatching hotspot that can be explored fully in a short time.",
+     "habitat": "Island",
+     "timeToVisit": "October to May",
+     "distanceFromCity": "Lakshadweep is one and a half hour away from Kochi by air and 18 to 20 hours (overnight) by ship."
+    },
+    {
+     "spots": "Bangaram island",
+     "access": "Restricted",
+     "description": "Bangaram is the only uninhabited island resort in Lakshadweep",
+     "habitat": "Island",
+     "timeToVisit": "October to May",
+     "distanceFromCity": "Lakshadweep is one and a half hour away from Kochi by air and 18 to 20 hours (overnight) by ship."
+    },
+    {
+     "spots": "Kavaratti island",
+     "access": "Restricted",
+     "description": "Kavaratti is the capital of Lakshadweep. The climate here is similar to that of Kerala",
+     "habitat": "Island",
+     "timeToVisit": "October to May",
+     "distanceFromCity": "Lakshadweep is one and a half hour away from Kochi by air and 18 to 20 hours (overnight) by ship."
+    },
+    {
+     "spots": "Minicoy island - general area",
+     "access": "Restricted",
+     "description": "The lighthouse in the island provides a picturesque view of the whole island",
+     "habitat": "Island",
+     "timeToVisit": "October to May",
+     "distanceFromCity": "Lakshadweep is one and a half hour away from Kochi by air and 18 to 20 hours (overnight) by ship.",
+     "storyLink": "https:\/\/www.thehindu.com\/features\/metroplus\/travel\/around-the-island-in-24-hours\/article5761062.ece"
+    },
+    {
+     "spots": "Pitti island",
+     "access": "Restricted",
+     "description": "Pitti island, also uninhabited, is close to the more familiar Kalpeni. With fewer people, it is a nice spot to watch the sea birds visiting Lakshadweep",
+     "habitat": "Island",
+     "timeToVisit": "October to May",
+     "distanceFromCity": "Lakshadweep is one and a half hour away from Kochi by air and 18 to 20 hours (overnight) by ship."
+    },
+    {
+     "spots": "Tinnakara island",
+     "access": "Restricted",
+     "description": "Like the other islands in Lakshadweep, Tinnakara is small, easily explored, and a scenic delight for birdwatchers",
+     "habitat": "Island",
+     "timeToVisit": "October to May",
+     "distanceFromCity": "Lakshadweep is one and a half hour away from Kochi by air and 18 to 20 hours (overnight) by ship."
+    }
+   ]
